@@ -1,0 +1,10 @@
+{
+  "name": "devchain",
+  "version": "0.0.4",
+  "bin": {
+    "devchain": "./bin/devchain.js"
+  },
+  "dependencies": {
+    "command-exists": "^1.2.9"
+  }
+}
